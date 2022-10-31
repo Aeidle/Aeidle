@@ -1,8 +1,8 @@
 ### 👋🏽 Hi, my name is Adil ALAMI.
 
 <img alt="GitHub watchers" src="https://img.shields.io/github/watchers/aeidle/Adil-Alami?style=social">
-[![Facebook](https://img.shields.io/badge/Facebook-Facebook-blue?logo=simple-icons@v7/icons/[facebook].svg)]
-?logo=simple-icons@v7/icons/[facebook].svg
+[![Linkedin](https://img.shields.io/badge/-LinkedIn-blue)](https://www.linkedin.com/in/adil-alami/)
+
 * 🎓 Graduated with a Technician Specialized in Audiovisual, IT. (July 2021)
 
 * 🤖 Currently studying Artificial Intelligence and Data Science
