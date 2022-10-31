@@ -1,7 +1,8 @@
 ### 👋🏽 Hi, my name is Adil ALAMI.
 
 <img alt="GitHub watchers" src="https://img.shields.io/github/watchers/aeidle/Adil-Alami?style=social">
-![Linkedin](https://img.shields.io/badge/-LinkedIn-blue)
+
+[![Linkedin](https://img.shields.io/badge/Visitors-127-blue)](https://github.com/Aeidle/prj-r/graphs/traffic)
 
 * 🎓 Graduated with a Technician Specialized in Audiovisual, IT. (July 2021)
 
