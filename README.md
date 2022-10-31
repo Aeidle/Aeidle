@@ -1,6 +1,6 @@
 ### 👋🏽 Hi, my name is Adil ALAMI.
 
-<img alt="GitHub watchers" src="https://img.shields.io/github/watchers/aeidle/Adil-Alami?style=social&logo=appveyor
+<img alt="GitHub watchers" src="https://img.shields.io/github/watchers/aeidle/Adil-Alami?style=social>
 
 * 🎓 Graduated with a Technician Specialized in Audiovisual, IT. (July 2021)
 
