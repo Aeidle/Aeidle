@@ -2,7 +2,7 @@
 
 <img alt="GitHub watchers" src="https://img.shields.io/github/watchers/aeidle/Adil-Alami?style=social">
 
-[![Linkedin](https://img.shields.io/badge/-LinkedIn-blue)](https://github.com/Aeidle/prj-r/graphs/traffic)
+[![Linkedin](https://img.shields.io/badge/-LinkedIn-blue)](https://www.linkedin.com/in/adil-alami/)
 
 * 🎓 Graduated with a Technician Specialized in Audiovisual, IT. (July 2021)
 
