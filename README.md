@@ -1,6 +1,6 @@
 ### 👋🏽 Hi, my name is Adil ALAMI.
 
-<img alt="GitHub watchers" src="https://img.shields.io/github/watchers/aeidle/Adil-Alami?style=social?logo=simple-icons">
+<img alt="GitHub watchers" src="https://img.shields.io/github/watchers/aeidle/Adil-Alami?style=social?logo=simple-icons@v7/icons/[facebook].svg">
 [![Facebook](https://www.facebook.com/kharachobaka/)]
 
 * 🎓 Graduated with a Technician Specialized in Audiovisual, IT. (July 2021)
