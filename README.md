@@ -4,9 +4,9 @@
 
 [![Linkedin](https://img.shields.io/badge/-LinkedIn-blue?logo=cdn.jsdelivr.net/npm/simple-icons@v7/icons/facebook.svg)](https://www.linkedin.com/in/adil-alami/)
 
-* 🎓 Graduated with a Technician Specialized in Audiovisual, IT. (July 2021)
-
 * 🤖 Currently studying Artificial Intelligence and Data Science
+
+* 🎓 Graduated with a Technician Specialized in Audiovisual, IT. (July 2021)
 
 * 🌇 Fes - Morocco Native, with a passion for Programming, Web and Game development
 
