@@ -41,7 +41,7 @@
 
 ###
 
-<p align="left">I'm a passionate Data Scientist and frontend developer from Morocco<br><br>- 🔭 I’m working as Data Scientist at WeHelp<br>- 📚 I'm currently learning React, Laravel, and Java<br>- ⚡ In my free time I work on my project : <a href = "https://github.com/Aeidle/AEye.git">AEye</a> (An AI-powered system to enhance the mobility of blind and visually impaired individuals)</p>
+<p align="left">I'm a passionate Data Scientist and frontend developer from Morocco<br><br>- 🔭 I’m a Data Science Intern at WeHelp<br>- 📚 I'm currently learning React, Laravel, and Java<br>- ⚡ In my free time I work on my project : <a href = "https://github.com/Aeidle/AEye.git">AEye</a> (An AI-powered system to enhance the mobility of blind and visually impaired individuals)</p>
 
 ###
 
