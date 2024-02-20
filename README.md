@@ -76,7 +76,11 @@
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original.svg" height="40" alt="mongodb logo"  />
   <img width="12" />
+  <img src="https://www.vectorlogo.zone/logos/apache_hadoop/apache_hadoop-icon.svg" alt="hadoop" width="50" height="40"/>
+  <img width="12" />
   <img src="https://cdn.simpleicons.org/unity/FFFFFF" height="40" alt="unity logo"  />
+  <img width="12" />
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="40" height="40"/>
 </div>
 
 ###
@@ -97,6 +101,12 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/numpy/numpy-original.svg" height="40" alt="numpy logo"  />
   <img width="12" />
   <img src="https://cdn.simpleicons.org/opencv/5C3EE8" height="40" alt="opencv logo"  />
+  <img width="12" />
+  <img src="https://www.cilans.net/wp-content/uploads/2019/09/scikit-learn-logo-notext-1.png" alt="scikit-learn logo" width="40" height="40"/>
+  <img width="12" />
+  <img src="https://raw.githubusercontent.com/gilbarbara/logos/1f372be75689d73cae89b6de808149b606b879e1/logos/matplotlib-icon.svg" alt="matplotlib logo" width="40" height="40"/>
+  <img width="12" />
+  <img src="https://raw.githubusercontent.com/gilbarbara/logos/1f372be75689d73cae89b6de808149b606b879e1/logos/seaborn-icon.svg" alt="seaborn logo" width="40" height="40"/>
 </div>
 
 ###
@@ -115,6 +125,8 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/anaconda/anaconda-original.svg" height="40" alt="anaconda logo"  />
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/kaggle/kaggle-original.svg" height="40" alt="kaggle logo"  />
+  <img width="12" />
+  <img src="https://raw.githubusercontent.com/edent/SuperTinyIcons/8d8f77e7cfa9cc981c4ea4a32839702429a9095f/images/svg/colaboratory.svg" width="40" height="40", alt="google colab"/> 
 </div>
 
 ###
