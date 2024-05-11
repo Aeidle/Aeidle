@@ -1,5 +1,5 @@
-<div align="center">
-  <img height="300" src="https://i.imgur.com/4uV13Vh.gif"  />
+![image](https://github.com/Aeidle/Aeidle/assets/72752236/d30f0f11-543e-4984-9b06-07d72972577c)<div align="center">
+  <img height="300" src="[https://i.imgur.com/4uV13Vh.gif](https://wallpapers.com/images/hd/dark-background-b59iy2towqy5yrgb.jpg)"  />
 </div>
 
 ###
