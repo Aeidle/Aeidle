@@ -1,5 +1,4 @@
-![image](https://github.com/Aeidle/Aeidle/assets/72752236/d30f0f11-543e-4984-9b06-07d72972577c)<div align="center">
-</div>
+![image](https://github.com/Aeidle/Aeidle/assets/72752236/d30f0f11-543e-4984-9b06-07d72972577c)
 
 ###
 
