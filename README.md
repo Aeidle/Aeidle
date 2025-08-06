@@ -40,7 +40,14 @@
 
 ###
 
-<p align="left">I'm a passionate Data Scientist and frontend developer from Morocco<br><br>- 🔭I’m a 1st year Big Data and Artificial Intelligence Master's Degree Student<br>- 📚 I'm currently learning React, Laravel, and Java<br>- ⚡ In my free time I work on my project : AEye (An AI-powered system to enhance the mobility of blind and visually impaired individuals)</p>
+<p align="left">
+I'm a passionate AI Engineer and Data Scientist from Morocco.<br><br>
+- 🎓 Graduated top of my class with a Master’s Degree in Big Data and Artificial Intelligence<br>
+- 💼 Currently working as an AI Engineer and CTO at <a href="https://github.com/voicari" target="_blank">Voicari</a><br>
+- 🧠 I specialize in AI systems for audio, signal processing, and intelligent interfaces<br>
+- ⚡ In my free time, I work on hobby projects like <a href="https://github.com/Aeidle/savepip" target="_blank">savepip</a>, a clean and lightweight alternative to pip freeze
+</p>
+
 
 ###
 
