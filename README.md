@@ -43,7 +43,7 @@
 <p align="left">
 I'm a passionate AI Engineer and Data Scientist from Morocco.<br><br>
 - 🎓 Graduated top of my class with a Master’s Degree in Big Data and Artificial Intelligence<br>
-- 💼 Currently working as an AI Engineer and CTO at <a href="https://github.com/voicari" target="_blank">Voicari</a><br>
+- 💼 Currently working as an AI Engineer and CTO @ <a href="https://github.com/voicari" target="_blank">Voicari</a><br>
 - 🧠 I specialize in AI systems for audio, signal processing, and intelligent interfaces<br>
 - ⚡ In my free time, I work on hobby projects like <a href="https://github.com/Aeidle/savepip" target="_blank">savepip</a>, a clean and lightweight alternative to pip freeze
 </p>
